@@ -1,0 +1,22 @@
+{
+  "name": "@dicaalba/chamillon",
+  "version": "1.0.0",
+  "description": "npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicaalba/chamillon.git"
+  },
+  "keywords": [
+    "chami"
+  ],
+  "author": "Diana A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dicaalba/chamillon/issues"
+  },
+  "homepage": "https://github.com/dicaalba/chamillon#readme"
+}
