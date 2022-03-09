@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dicaalba/chamillon/issues"
   },
-  "homepage": "https://github.com/dicaalba/chamillon#readme"
+  "homepage": "https://github.com/dicaalba/chamillon#readme",
+  "publishConfig": {
+    "@dicaalba:registry": "https://npm.pkg.github.com"
+  }
 }
