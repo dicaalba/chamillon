@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/dicaalba/chamillon#readme",
   "publishConfig": {
-    "dicaalba:registry": "https://npm.pkg.github.com"
+    "@dicaalba:registry": "https://npm.pkg.github.com"
   }
 }
