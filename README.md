@@ -53,3 +53,11 @@ Adicional, loguearse en la terminal:
 # Publicar el paquete
 
 `npm publish`
+
+# Enlaces
+https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages
+https://docs.npmjs.com/creating-a-package-json-file
+https://docs.npmjs.com/creating-node-js-modules
+https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
+
+
