@@ -1,6 +1,6 @@
 {
-  "name": "chamillon",
-  "version": "1.0.0",
+  "name": "@dicaalba/chamillon",
+  "version": "1.0.1",
   "description": "npm package",
   "main": "index.js",
   "scripts": {

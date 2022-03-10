@@ -1,4 +1,10 @@
-const messages = ["Chami", "Macuqui", "Chamaquin", "Diana", "Kevin"];
+const messages = [
+  "Chami 🐧",
+  "Macuqui 🐒",
+  "Chamaquin 🐽",
+  "Diana 🐱",
+  "Kevin 🐱",
+];
 
 const randomMsg = () => {
   const message = messages[Math.floor(Math.random() * messages.length)];
