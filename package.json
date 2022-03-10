@@ -1,5 +1,5 @@
 {
-  "name": "@dicaalba/chamillon",
+  "name": "chamillon",
   "version": "1.0.0",
   "description": "npm package",
   "main": "index.js",
@@ -14,7 +14,11 @@
     "chami"
   ],
   "author": "Diana A",
-  "license": "ISC",
+  "license": "MIT",
+  "bin": {
+    "chamillon": "bin/global.js"
+  },
+  "preferGlobal": true,
   "bugs": {
     "url": "https://github.com/dicaalba/chamillon/issues"
   },
